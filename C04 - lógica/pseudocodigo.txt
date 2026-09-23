@@ -1,0 +1,3 @@
+-Algoritimo para receber as notas de 3 alunos diferentes;
+-armazenar as 3 entradas, e calcular a média;
+-retornar a média em uma frase.
